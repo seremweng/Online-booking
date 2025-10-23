@@ -1,0 +1,88 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-sunset",
+      "description": "A beautiful African sunset over a savanna.",
+      "imageUrl": "https://picsum.photos/seed/dz1/1920/1080",
+      "imageHint": "african sunset"
+    },
+    {
+      "id": "room-luxury",
+      "description": "A luxurious and spacious hotel room with elegant decor.",
+      "imageUrl": "https://picsum.photos/seed/dz2/800/600",
+      "imageHint": "luxury hotel room"
+    },
+    {
+      "id": "room-suite",
+      "description": "A hotel suite with a separate living area and modern amenities.",
+      "imageUrl": "https://picsum.photos/seed/dz3/800/600",
+      "imageHint": "hotel suite interior"
+    },
+    {
+      "id": "room-modern",
+      "description": "A modern bedroom with minimalist design and a large window.",
+      "imageUrl": "https://picsum.photos/seed/dz4/800/600",
+      "imageHint": "modern bedroom"
+    },
+    {
+      "id": "attraction-safari",
+      "description": "Elephants walking through the savanna on a safari.",
+      "imageUrl": "https://picsum.photos/seed/dz5/400/300",
+      "imageHint": "safari wildlife"
+    },
+    {
+      "id": "attraction-market",
+      "description": "A vibrant local market with various crafts and produce.",
+      "imageUrl": "https://picsum.photos/seed/dz6/400/300",
+      "imageHint": "local market"
+    },
+    {
+      "id": "attraction-ruins",
+      "description": "Ancient stone ruins under a clear blue sky.",
+      "imageUrl": "https://picsum.photos/seed/dz7/400/300",
+      "imageHint": "ancient ruins"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Placeholder for user avatar",
+      "imageUrl": "https://picsum.photos/seed/ua1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "room-interior-1",
+      "description": "Elegant interior of a hotel room.",
+      "imageUrl": "https://picsum.photos/seed/int1/800/600",
+      "imageHint": "hotel room interior"
+    },
+    {
+      "id": "room-interior-2",
+      "description": "Stylish living area of a hotel suite.",
+      "imageUrl": "https://picsum.photos/seed/int2/800/600",
+      "imageHint": "hotel suite living area"
+    },
+    {
+      "id": "room-interior-3",
+      "description": "Cozy and modern family room interior.",
+      "imageUrl": "https://picsum.photos/seed/int3/800/600",
+      "imageHint": "family hotel room"
+    },
+    {
+      "id": "room-bathroom-1",
+      "description": "Modern bathroom with a walk-in shower.",
+      "imageUrl": "https://picsum.photos/seed/bath1/800/600",
+      "imageHint": "modern bathroom"
+    },
+    {
+      "id": "room-bathroom-2",
+      "description": "Luxury bathroom with a large bathtub.",
+      "imageUrl": "https://picsum.photos/seed/bath2/800/600",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "room-bathroom-3",
+      "description": "Spacious bathroom suitable for a family.",
+      "imageUrl": "https://picsum.photos/seed/bath3/800/600",
+      "imageHint": "family bathroom"
+    }
+  ]
+}
